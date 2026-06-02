@@ -1,0 +1,18 @@
+table {
+    width: 90%;
+    margin: auto;
+    table-layout: fixed; /* todas las columnas iguales */
+}
+
+td {
+    width: 33.33%;
+    text-align: center;
+    vertical-align: top;
+}
+
+video {
+    width: 90%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
