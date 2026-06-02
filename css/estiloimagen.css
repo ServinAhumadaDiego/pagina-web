@@ -1,0 +1,15 @@
+.galeria{
+    display: flex;
+    justify-content: center;
+}
+
+.galeria img{
+    width: 300px;
+    height: 180px;
+    object-fit: contain;
+}
+
+.carrusel img{
+    object-fit: contain;
+}
+
