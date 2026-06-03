@@ -1,0 +1,12 @@
+.tabla-videos td{
+       text-align: center;
+       vertical-align: middle;
+}
+
+.tabla-videos video{
+       width: 600px;
+       height: 360px;
+       object-fit: cover;
+       display: block;
+       margin: 0 auto;
+}
