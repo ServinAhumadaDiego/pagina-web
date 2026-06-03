@@ -1,6 +1,7 @@
 .galeria{
     display: flex;
     justify-content: center;
+     align-items: center;
 }
 
 .galeria img{
@@ -13,3 +14,18 @@
     object-fit: contain;
 }
 
+
+.texto{
+    flex: 1; /* mismo espacio */
+    padding: 20px;
+}
+
+.galeria table{
+    width: 100%;
+    table-layout: fixed;
+}
+
+.galeria td{
+    width: 25%;
+    vertical-align: middle;
+}
